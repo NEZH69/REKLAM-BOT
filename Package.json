@@ -2,7 +2,7 @@
   "name": "partnerproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Nezh.js",
   "dependencies": {
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
